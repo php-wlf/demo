@@ -1,0 +1,11 @@
+{
+    "name": "php-wlf/demo",
+    "description": "this a ceshi package",
+    "type": "project",
+    "require": {
+        "nette/bootstrap": "*",
+        "php-ipv6": "*"
+    },
+    "license": "apache",
+    "minimum-stability": "dev"
+}

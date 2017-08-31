@@ -1,7 +1,7 @@
 <application>
   <component name="WebServers">
     <option name="servers">
-      <webServer id="b0e8cb0a-50bc-4f00-acda-804ef94e7e25" name="apache" url="http://dev.domo.com">
+      <webServer id="b0e8cb0a-50bc-4f00-acda-804ef94e7e25" name="demo" url="http://dev.demo.com">
         <fileTransfer port="0" mountedRoot="/Applications/MAMP/htdocs/demo" accessType="MOUNT" />
       </webServer>
     </option>

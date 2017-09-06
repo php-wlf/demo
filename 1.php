@@ -2,5 +2,7 @@
 
 phpinfo();
 
+echo 123;
+
 
 ?>
